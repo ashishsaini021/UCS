@@ -16,6 +16,6 @@ Initial State:- No queen is on board.
 Goal State:- All queens are at non attacking position.  
 To complile run command "g++ 8queen_ucs.cpp".  
 Run ./a.out  
-NO INPUT IS REQUIRED. 
+NO INPUT IS REQUIRED.  
 Output:-  
 Program returns 8X8 matrix showing position of Queens by "1" on a 8X8 board.  
